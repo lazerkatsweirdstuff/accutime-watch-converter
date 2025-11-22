@@ -61,4 +61,36 @@ MicroSD Reader
 
 21: Open the "Photos" folder. You are now ready for uploading files.
 
-22: 
+22: Go back into chrome/bing, and click [here](https://github.com/lazerkatsweirdstuff/accutime-watch-converter/releases/download/V1.21.8/accutime-watch-converter.exe). This will download the latest copy of accutime-watch-converter.exe.
+
+23: Open it
+
+24: Wait for it to open, then wait for ffmpeg to download. There is a % at the top.
+
+25: In the "Select Video File" section, press "Browse", then select a video file of your choice, then press "Open".
+
+26: Optionally, select the compression amount. I would reccomend "Very High (Smallest)" but only do this if you know what it means.
+
+27: Press "Convert Video"
+
+28: Wait for it to give confirmation that it is finished
+
+29: It will save into your downloads folder. Drag the generated file into the "Photos" folder on the MicroSD
+
+30: If you want to add more, repeat step 25-29
+
+31: Eject the MicroSD card by right-clicking on the drive and clicking "Eject"
+
+32: Take the MicroSD out of the reader
+
+33: Repeat steps 1-12 to open the watch, put the MicroSD in, then close it.
+
+34: If you open the "Gallery" app, you now have your videos on your watch!!
+
+# Technical notes
+
+## Conversion proccess:
+
+Video > 128W 108H > 200% Volume > MJPEG AVI format
+
+k thx byee
